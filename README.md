@@ -44,12 +44,17 @@ It sorts documents, images, videos, and other files into categorized folders, im
 bash file_organizer.sh
 ```
 
+or
+
+```bash
+./file_organizer.sh
+```
+
 ---
 
 ### 2️⃣ Make It Executable (Optional)
 ```bash
 chmod +x file_organizer.sh
-./file_organizer.sh
 ```
 
 ---
