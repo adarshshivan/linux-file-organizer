@@ -42,3 +42,44 @@ It sorts documents, images, videos, and other files into categorized folders, im
 ### 1️⃣ Run the script
 ```bash
 bash file_organizer.sh
+```
+
+---
+
+### 2️⃣ Make It Executable (Optional)
+```bash
+chmod +x file_organizer.sh
+./file_organizer.sh
+```
+
+---
+
+### 📂 Example Output
+
+
+### 🧾 Before Organizing
+ photo.jpg  movie.mp4  report.pdf  notes.txt  song.mp3  readme.md
+
+### 📁 After Organizing
+
+- Images/ photo.jpg
+- Documents/ report.pdf  notes.txt  readme.md 
+- Videos/ movie.mp4
+- Music/ song.mp3
+- Others/
+
+---
+
+### 🎓 What I Learned
+
+- Writing clean and modular Bash scripts.
+- Using conditional logic and case statements.
+- Automating repetitive file system tasks.
+- Managing and documenting a project using Git and Markdown.
+
+---
+
+### 🧠 Project Summary
+
+#### This project automates the process of organizing files in a directory by type using a Bash script.
+#### It’s a beginner-friendly Linux automation project that demonstrates file handling, scripting logic, and workflow automation — an essential skill for DevOps or Cloud Engineering.
