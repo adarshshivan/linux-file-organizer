@@ -39,22 +39,20 @@ It sorts documents, images, videos, and other files into categorized folders, im
 
 ## ▶️ Usage Instructions
 
-### 1️⃣ Run the script
+### 1️⃣ Make It Executable (Optional)
+```bash
+chmod +x file_organizer.sh
+```
+
+### 2️⃣ Run the script
 ```bash
 bash file_organizer.sh
 ```
 
-or
+or (if executable):
 
 ```bash
 ./file_organizer.sh
-```
-
----
-
-### 2️⃣ Make It Executable (Optional)
-```bash
-chmod +x file_organizer.sh
 ```
 
 ---
