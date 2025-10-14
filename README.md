@@ -86,5 +86,5 @@ chmod +x file_organizer.sh
 
 ### 🧠 Project Summary
 
-#### This project automates the process of organizing files in a directory by type using a Bash script.
-#### It’s a beginner-friendly Linux automation project that demonstrates file handling, scripting logic, and workflow automation — an essential skill for DevOps or Cloud Engineering.
+ This project automates the process of organizing files in a directory by type using a Bash script.
+ It’s a beginner-friendly Linux automation project that demonstrates file handling, scripting logic, and workflow automation — an essential skill for DevOps or Cloud Engineering.
