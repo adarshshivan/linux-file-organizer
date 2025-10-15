@@ -62,6 +62,9 @@ or (if executable):
 
 ### 🧾 Before Organizing
  photo.jpg  movie.mp4  report.pdf  notes.txt  song.mp3  readme.md
+ 
+![Before Output Screenshot](./images/before.png)
+
 
 ### 📁 After Organizing
 
@@ -70,6 +73,8 @@ or (if executable):
 - Videos/ movie.mp4
 - Music/ song.mp3
 - Others/
+
+![After Output Screenshot](./images/after.png)
 
 ---
 
